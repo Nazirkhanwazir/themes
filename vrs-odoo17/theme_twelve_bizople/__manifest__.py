@@ -3,7 +3,7 @@
 {
     'name': 'Theme Twelve',
     'category': 'Theme/Corporate',
-    'version': '15.0.0.0',
+    'version': '17.0.0.0',
     'author': 'Bizople Solutions Pvt. Ltd.',
     'website': 'https://www.bizople.com',
     'summary': 'Software, Web Agency, Charity, Landing, Real Estate,Agency, Hotel/Restaurant, Health care / Medical Agency or a Hospital, Accounting Firm, Fitness Centre, SEO, Fashion, Civil Engineer, Furniture / Interior Designing, Service provider, or any other',
